@@ -1,4 +1,4 @@
-# Excel-Mastery-Repository
+
 A compilation of Excel projects aimed at improving proficiency in spreadsheet analysis and modeling.
 
 Excel project for managing employee payroll. The spreadsheet is designed to track and calculate salary details for four months, providing a comprehensive overview of employee compensation.
